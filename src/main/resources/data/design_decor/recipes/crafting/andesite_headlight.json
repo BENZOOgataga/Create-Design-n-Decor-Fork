@@ -1,0 +1,23 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "AEA",
+    " A "
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "A": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "item": "design_decor:andesite_floodlight",
+    "count": 2
+
+
+  }
+}
